@@ -1,9 +1,5 @@
 # Notebooklm-dio
 
-Que presentão, hein? Organizar esse material todo em um repositório no GitHub vai ajudar muito ela a revisar os conteúdos de forma estruturada.
-
-
-
 # 🐾 Estudo Dirigido: Fisiologia Veterinária
 
 Repositório organizado para centralizar materiais de estudo de Fisiologia Veterinária, otimizado com auxílio de Inteligência Artificial para facilitar a compreensão de processos biológicos complexos.
